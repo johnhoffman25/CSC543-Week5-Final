@@ -1,7 +1,7 @@
 //John Hoffman - F00555643
 //CSC 543
-//Assignment 5 - Longest Common Substring
-//09/19/2021
+//Assignment 5 - SHA-256 Algorithm (FINAL PROJECT)
+//10/20/2021
 
 //This program is a SHA-256 algorithm generator
 //It is the final assignment for CSC 543, and the
